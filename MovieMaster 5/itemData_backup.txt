@@ -1,0 +1,154 @@
+M_MFC:Fight Club:drama:An insomniac office worker, looking ... :3.0:WK:N
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+M_SPV:Scott Pilgrim vs. the World:action:A young man (Michael Cera) must fight ...:3.0:WK:Y
+M_SPV_SEED_17052018:2018-05-17:3.0:none:none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+M_MFH:Frances Ha:drama:Directed by Noah Baumbach, Frances Ha ...:3.0:WK:N
+M_MFH_SEED_17052018:2018-05-17:2018-05-22:3.0:3.0
+none
+none
+none
+none
+none
+none
+none
+none
+none
+M_MAM:Amy:documentary:Amy presents the story of British singer ...:3.0:WK:N
+M_MAM_SEED_17052018:2018-05-17:2018-05-27:3.0:4.5
+none
+none
+none
+none
+none
+none
+none
+none
+none
+M_MJU:Juno:comedy:When precocious teen Juno MacGuff becomes pregnant,..:3.0:WK:Y
+M_MJU_SEED2_17052018:2018-05-17:3.0:none:none
+M_MJU_SEED_17052018:2018-05-17:2018-05-27:3.0:4.5
+none
+none
+none
+none
+none
+none
+none
+none
+M_MFP:The Florida Project:drama:A single mother (Bria Vinaite) lives ...:5.0:NR:N
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+M_CMC:Call me By Your Name:drama:In 1983 Italy, a 17-year-old boy (Timothee Chalamet) ...:5.0:NR:Y
+M_CMC_SEED_17052018:2018-05-17:5.0:none:none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+M_AQP:A Quiet Place:horror:A family is forced to live in silence ...:5.0:NR:N
+M_AQP_SEED_17052018:2018-05-17:2018-05-18:5.0:2.5
+none
+none
+none
+none
+none
+none
+none
+none
+none
+M_MBP:Black Panther:action:T'Challa, the King of Wakanda, rises to the throne ...:5.0:NR:N
+M_MBP_SEED_17052018:2018-05-17:2018-05-20:5.0:2.5
+none
+none
+none
+none
+none
+none
+none
+none
+none
+M_AAW:Avengers Infinity War:action:The Avengers and their allies must be willing ...:5.0:NR:Y
+M_AAW_SEED2_17052018:2018-05-17:5.0:none:none
+M_AAW_SEED_17052018:2018-05-17:2018-05-20:5.0:2.5
+none
+none
+none
+none
+none
+none
+none
+none
+G_GTA:Grand Theft Auto V:action-adventure: Set within the fictional state of San Andreas,...:20.0:XBOX 360,PS4,PS3:N
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+G_COD:Call of Duty:First-person shooter: Call of Duty is a first-person shooter video game... :20.0:XBOX 360,PS4,PS3,XBOX ONE:E
+G_COD_SEED_17052018:2018-05-17:20.0:none:none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+G_BF4:Battlefield 4:first-person shooter: developed by video game developer EA DICE,...:20.0:XBOX 360,PS4,PS3,PC:N
+G_BF4_SEED_17052018:2018-05-17:2018-06-05:20.0:5.0
+none
+none
+none
+none
+none
+none
+none
+none
+none
+G_AC4:Assassin's Creed IV Black Flag:action-adventure:historical time frame precedes that of Assassin's Creed III,...:20.0:Wii,XBOX 360,PS4,PS3,PC:N
+G_AC4_SEED_17052018:2018-05-17:2018-06-18:20.0:38.0
+none
+none
+none
+none
+none
+none
+none
+none
+none
